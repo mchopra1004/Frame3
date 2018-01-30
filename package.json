@@ -1,0 +1,32 @@
+{
+  "name": "sp",
+  "version": "1.0.0",
+  "description": "Clone this project",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "grunt-protractor-runner": "^5.0.0",
+    "imap": "^0.8.19",
+    "imap-simple": "^3.2.0",
+    "inbox": "^1.1.59",
+    "last-gmail": "^1.0.1",
+    "mail-listener": "^0.7.1",
+    "mail-listener-fixed": "^1.1.0",
+    "mail-listener2": "^0.3.1",
+    "mail-listener2-modified": "^0.3.6",
+    "mail-notifier": "^0.4.1",
+    "node-gmail-api": "^0.6.0",
+    "request": "^2.81.0",
+    "simple-imap": "^0.1.6",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "decache": "^4.3.0",
+    "grunt-protractor-runner": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
